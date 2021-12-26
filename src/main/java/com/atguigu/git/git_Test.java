@@ -6,5 +6,6 @@ public class git_Test {
         System.out.println("hello java");
         System.out.println("hello hadoop");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
